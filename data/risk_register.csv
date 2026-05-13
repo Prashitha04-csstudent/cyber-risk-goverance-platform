@@ -1,0 +1,4 @@
+risk_id,risk_name,likelihood,impact,risk_score,mitigation
+1,Phishing Attack,5,4,20,Employee Awareness Training
+2,Malware Infection,4,5,20,Endpoint Protection
+3,Weak Passwords,3,4,12,MFA Enforcement
